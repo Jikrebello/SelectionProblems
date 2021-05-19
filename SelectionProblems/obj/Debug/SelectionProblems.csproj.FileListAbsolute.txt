@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\bin\Debug\SelectionProblems.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\bin\Debug\SelectionProblems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\bin\Debug\SelectionProblems.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\obj\Debug\SelectionProblems.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\obj\Debug\SelectionProblems.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\obj\Debug\SelectionProblems.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\obj\Debug\SelectionProblems.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\obj\Debug\SelectionProblems.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\obj\Debug\SelectionProblems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\SelectionProblems\obj\Debug\SelectionProblems.pdb
